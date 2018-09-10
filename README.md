@@ -1,5 +1,4 @@
 # hello-world
 mi primer repositorio
 
-escribo algo para que la rama sea diferente
-
+que no quiero que pongas eso
